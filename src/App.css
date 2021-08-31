@@ -1,21 +1,17 @@
+
 .super-main{
-    background-image: linear-gradient(to right bottom, #398b67, #008e8a, #008db6, #0086dd, #1873e9);
+   
    
 }
 
-.main-container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 860px;
+body{
+    background-color: rgb(119, 206, 218);
 }
 .container{
-
-   
+    border-radius: 18px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.56);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.56);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.56);
     background-image: linear-gradient(to right bottom, #c6e5d7, #a8dac8, #88cfbb, #61c4af, #27b9a6);
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
-
 }
 

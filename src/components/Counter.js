@@ -7,11 +7,11 @@ export const Counter = () => {
   const counter = useSelector((state) => state.counter);
   // console.log("counter ",counter)
     return (
-        <div className= "fluid-container super-main ">
-      <center><h1 className="pt-5">Welcome to Armani counter </h1></center>
+        <div className= "fluid-container ">
+      <center><h1 className="pt-5">Welcome to counter App</h1></center>
       <div className= "main-container">
       <div className="container ">
-        <center><h1 className="mt-5">{counter}</h1></center>
+        <center><h1 className="pt-4 mt-5">{counter}</h1></center>
         <div className="row">
           <div className="col-sm-6">
           <center> <button 
@@ -27,6 +27,8 @@ export const Counter = () => {
           </div>
         </div>
       </div>
+      <center><h4 className="pt-5">This Application is pure React-redux ... <span><a href="https://github.com/Arman-Arzoo/react-redux-counter-app">source code</a></span></h4></center>
+      <center><h6 className="pt-3">Created by <a href="http://armani.unaux.com/">Arman ALi</a></h6></center>
       </div>
     </div>
     )
