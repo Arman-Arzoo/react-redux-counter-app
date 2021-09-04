@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App] full redux state management
 
-##Demo
+## Demo
 https://redux-counters.netlify.app
 
 ## Available Scripts
