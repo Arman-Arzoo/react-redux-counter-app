@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App] full redux state managemen
 ## Demo
 https://redux-counters.netlify.app
 
+![democounter](https://user-images.githubusercontent.com/51259303/132956806-22d35ac6-7329-454b-8c67-9ac71a1397ed.PNG)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
